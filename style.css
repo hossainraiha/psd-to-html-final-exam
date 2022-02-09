@@ -183,7 +183,14 @@ h2, h3 {
     background-color: rgb(246, 246, 223);
 }
   
-    
+.btn-success,
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus {
+    background-color: #add136;
+    border-color: #add136;
+}    
 
 
     
